@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/travel-equipment/static/css/main.825a3e8f.css",
+    "main.js": "/travel-equipment/static/js/main.398c03e0.js",
+    "index.html": "/travel-equipment/index.html",
+    "main.825a3e8f.css.map": "/travel-equipment/static/css/main.825a3e8f.css.map",
+    "main.398c03e0.js.map": "/travel-equipment/static/js/main.398c03e0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.825a3e8f.css",
+    "static/js/main.398c03e0.js"
+  ]
+}
